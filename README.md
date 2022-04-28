@@ -9,9 +9,9 @@ Pasos para la instalación.
 4. Crear entorno virtual dentro de la ruta del proyecto
   > `python -m virtualenv venv`
 5. Activar entorno virtual a partir de acá se debe trabajar con el entorno virtual activado.
-  (Windows - Verificar si existen permisos de políticas de ejecución)
+  - (Windows - Verificar si existen permisos de políticas de ejecución)
   > `.\venv\Scripts\activate`
-  (Linux)
+  - (Linux)
   > `source ./venv/bin/activate`
 6. Instalar dependencias
   > `pip install -r requirements.txt`
